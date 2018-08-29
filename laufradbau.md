@@ -4,7 +4,7 @@ Ich möchte hier am Beispiel der Laufräder für mein neues 650B Enduro MTB den
 Aufbau eines MTB Laufradsatzes dokumentieren. Ich habe dafür folgende
 Komponenten ausgewählt:
 
-* Narben: [Hope Pro 2 EVO 40T][HopePRO]
+* Naben: [Hope Pro 2 EVO 40T][HopePRO]
 * Felgen: [WTB Frequency Team i25 650B][WTB-I25]
 * Speichen: [Sapim D-Light][SAPIM-D] (2.0 - 1.65 - 2.0)
 * Speichen: [Sapim Laser][SAPIM-L](2.0 - 1.5 - 2.0)
@@ -23,20 +23,20 @@ sollen mit dreifacher Kreuzung eingespeicht werden.
   <label>Quelle: http://komponentix.de</label>
 </a>
 
-Da moderne MTB-Narben meist asymetrisch gestaltet sind, kann die Länge der
+Da moderne MTB-Naben meist asymetrisch gestaltet sind, kann die Länge der
 Speichen auf jeder Laufradseite unterschiedlich sein und muss deshalb getrennt
 berechnet werden. Um die korrekte Länge für eine Seite zu bestimmen werden
-folgende Maße benötigt (hier beispielhaft für die Freilaufseite der Hope Narbe
+folgende Maße benötigt (hier beispielhaft für die Freilaufseite der Hope Nabe
 (Hinten rechts \\(= Hr\\)):
 
-00. Abstand von Narbenmitte zur Narbenflanschmitte: \\(W_r=19mm\\)
-00. Narbenflansch Lochkreisdurchmesser: \\(d_r=54mm\\)
+00. Abstand von Nabenmitte zur Nabenflanschmitte: \\(W_r=19mm\\)
+00. Nabenflansch Lochkreisdurchmesser: \\(d_r=54mm\\)
 00. Durchmesser Speichenloch: \\(s=2,6mm\\)
 00. Anzahl der Speichenkreuzungen: \\(x=3\\)
 00. Anzahl der Speichen: \\(n=16\\)
 00. Felgendurchmesser, gemessen am Nippelsitz: \\(ERD=565mm\\)
 
-Die Maße der Hope Narbe stammen aus dem offiziellen [Hope Dokument][HopeHUB],
+Die Maße der Hope Nabe stammen aus dem offiziellen [Hope Dokument][HopeHUB],
 den \\(ERD\\) habe ich mit zwei auf \\(200mm\\) abgelängten Speichen gemessen,
 bei denen ich die Nippel eingeklebt habe.
 
@@ -66,7 +66,6 @@ entsprechend gerundet diese reellen Speichenlängen ergeben.
     Vorne Rechts: 273.99 mm -> 273 mm (Laser)
     Hinten Links: 273.70 mm -> 273 mm (Laser)
     Hinten Rechts 272.67 mm -> 272 mm (D-Light)
-
 
 
 -----
