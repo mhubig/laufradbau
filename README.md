@@ -1,8 +1,7 @@
 # Laufradbau am Beispiel
 
-Ich möchte hier am Beispiel der Laufräder für mein neues 650B Enduro MTB den
-Aufbau eines MTB Laufradsatzes dokumentieren. Ich habe dafür folgende
-Komponenten ausgewählt:
+Ich möchte hier am Beispiel der Laufräder für mein neues 650B Enduro MTB den Aufbau
+eines MTB Laufradsatzes dokumentieren. Ich habe dafür folgende Komponenten ausgewählt:
 
 - Naben: [Hope Pro 2 EVO 40T][hopepro]
 - Felgen: [WTB Frequency Team i25 650B][wtb-i25]
@@ -10,11 +9,10 @@ Komponenten ausgewählt:
 - Speichen: [Sapim Laser][sapim-l](2.0 - 1.5 - 2.0)
 - Nippel: [Sapim Polyax][sapim-n] (14mm)
 
-Die Kombination von D-Light und Laser Speichen soll einen belastungsgerechten
-Aufbau der Laufräder ermöglichen. Dabei sollen die etwas stärkeren D-Light
-Speichen immer auf der Seite mit dem steileren Speichenwinkel und der
-dementbsprechend höheren Speichenspannung eingesetzt werden. Beide Laufräder
-sollen mit dreifacher Kreuzung eingespeicht werden.
+Die Kombination von D-Light und Laser Speichen soll einen belastungsgerechten Aufbau der
+Laufräder ermöglichen. Dabei sollen die etwas stärkeren D-Light Speichen immer auf der
+Seite mit dem steileren Speichenwinkel und der dementbsprechend höheren Speichenspannung
+eingesetzt werden. Beide Laufräder sollen mit dreifacher Kreuzung eingespeicht werden.
 
 ## 01. Berechnung der Speichenlänge
 
@@ -22,11 +20,10 @@ sollen mit dreifacher Kreuzung eingespeicht werden.
 
 Quelle: http://komponentix.de
 
-Da moderne MTB-Naben meist asymetrisch gestaltet sind, kann die Länge der
-Speichen auf jeder Laufradseite unterschiedlich sein und muss deshalb getrennt
-berechnet werden. Um die korrekte Länge für eine Seite zu bestimmen werden
-folgende Maße benötigt (hier beispielhaft für die Freilaufseite der Hope Nabe
-Hinten rechts `Hr`):
+Da moderne MTB-Naben meist asymetrisch gestaltet sind, kann die Länge der Speichen auf
+jeder Laufradseite unterschiedlich sein und muss deshalb getrennt berechnet werden. Um
+die korrekte Länge für eine Seite zu bestimmen werden folgende Maße benötigt (hier
+beispielhaft für die Freilaufseite der Hope Nabe Hinten rechts `Hr`):
 
 0.  Abstand von Nabenmitte zur Nabenflanschmitte: `W_r=19mm`
 1.  Nabenflansch Lochkreisdurchmesser: `d_r=54mm`
@@ -35,16 +32,16 @@ Hinten rechts `Hr`):
 4.  Anzahl der Speichen: `n=16`
 5.  Felgendurchmesser, gemessen am Nippelsitz: `ERD=565mm`
 
-Die Maße der Hope Nabe stammen aus dem offiziellen [Hope Dokument][hopehub],
-den (ERD) habe ich mit zwei auf (200mm) abgelängten Speichen gemessen,
-bei denen ich die Nippel eingeklebt habe.
+Die Maße der Hope Nabe stammen aus dem offiziellen [Hope Dokument][hopehub], den (ERD)
+habe ich mit zwei auf (200mm) abgelängten Speichen gemessen, bei denen ich die Nippel
+eingeklebt habe.
 
 ![Felge Vermessen](http://fstatic3.mtb-news.de/f/zt/sr/ztsro38qw28q/medium_MeasuringERD.png?0)
 
 Quelle: http://komponentix.de
 
-Hat man alle Maße bestimmt, kann die folgende Formel genutzt werden um die
-Speichenlänge zu errechnen:
+Hat man alle Maße bestimmt, kann die folgende Formel genutzt werden um die Speichenlänge
+zu errechnen:
 
 $$
 S_L = \sqrt{
